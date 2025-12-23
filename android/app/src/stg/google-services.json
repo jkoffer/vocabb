@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "101493484416",
+    "project_id": "vocabb-app-dev",
+    "storage_bucket": "vocabb-app-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101493484416:android:6353c64f3d61e18b8eef65",
+        "android_client_info": {
+          "package_name": "com.vocabb.android.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO-RbiQaacksu-9j6bVRGZlmA2m0qr5B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101493484416:android:d695a9404457408b8eef65",
+        "android_client_info": {
+          "package_name": "com.vocabb.android.stg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO-RbiQaacksu-9j6bVRGZlmA2m0qr5B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
